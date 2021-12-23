@@ -38,7 +38,7 @@ body {
   color: var(--accent-color);
 }
 
-. .header-tel,
+.header-tel,
 .header-mail {
   font-weight: 500;
   font-size: 14px;
